@@ -1,0 +1,3 @@
+http://username:password@residential-proxy1:8000
+http://username:password@residential-proxy2:8000
+socks5://username:password@residential-proxy3:1080
