@@ -7,6 +7,8 @@ It supports proxy rotation to reduce blocking and saves extracted reviews into J
 
 ---
 
+https://github.com/user-attachments/assets/9a38c065-37c8-4a19-be65-b6a1f314f2f0
+
 ## 🚀 Features
 
 * Scrape reviews from:
